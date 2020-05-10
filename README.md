@@ -1,5 +1,5 @@
 # Locker-1.0-By-Anonymous
-**Locker 1.0** will help you in protecting your **personal data** or **secret files** with some simple **notepad** tricks.Locker is the program which **locks** your personal data. And, whenever you needed it back, it will **unlock** it by asking a **password** to the user.
+**Locker 1.0** will help you in protecting your **personal data** or **secret files** with some simple **notepad** tricks. Locker is the program which **locks** your personal data. And, whenever you needed it back it will **unlock** it by asking a **password** to the user.
 
 ![Explorer View](https://i0.wp.com/www.thebateam.org/wp-content/uploads/2018/12/27.png?w=394&ssl=1)
 
